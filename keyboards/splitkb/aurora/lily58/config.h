@@ -20,3 +20,6 @@
 #ifdef OLED_ENABLE
 #   define OLED_FONT_H "keyboards/splitkb/aurora/lily58/glcdfont.c"
 #endif
+
+// activatiom method for caps word 
+#define DOUBLE_TAP_SHIFT_TURNS_ON_CAPS_WORD
